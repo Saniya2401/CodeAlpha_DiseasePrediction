@@ -34,4 +34,5 @@ python disease_prediction.py
 ```
 
 ## Author
-CodeAlpha Machine Learning Internship Project
+Saniya Khokhar  
+Machine Learning Intern at CodeAlpha
